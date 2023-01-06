@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    border: 3px salmon;
+    padding: 40px;
+    color: coral;
+    text-decoration: underline;
+    font-family: 'Press Start 2P', cursive;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+    text-align: center;
+    padding: 40px;
+}
+
+button{
+    border-radius: 30px;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    background:coral;
+    color: azure;
+    font-family: 'Press Start 2P', cursive;
+}
+
+button:hover{
+    background: rgb(220, 210, 210);
+    color: coral;
+}
+
+.main-title,.main-title2{
+    text-align: center;
+}
+
+.main-idea,.main-idea2{
+    text-align: center;
+}
+
